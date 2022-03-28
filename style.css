@@ -1,4 +1,9 @@
 /*Layout*/
+:root {
+  --body-bg-color: #faf7fd;
+  --purple: #5a9ca4;
+}
+
 * {
   margin: 0;
 }
@@ -12,10 +17,6 @@ body {
   background-color: var(--body-bg-color);
 }
 
-:root {
-  --body-bg-color: #faf7fd;
-  --purple: #bb99dd;
-}
 
 /* image */
 
